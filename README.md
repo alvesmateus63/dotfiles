@@ -2,7 +2,7 @@
 
 ## How to use:
 
-1. Clone o repositório:
+1. Clonar o repositório:
 ```bash
 # SSH
 git@github.com:alvesmateus63/dotfiles.git
